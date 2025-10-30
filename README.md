@@ -77,3 +77,29 @@ VAR PrevProfit =
     CALCULATE([Total Profit], DATEADD(Calendar[Date], -7, DAY))
 RETURN
 DIVIDE(CurrentProfit - PrevProfit, PrevProfit, 0) * 100
+
+
+Key Takeaways
+
+Sales declined slightly this week (-6.5%)
+
+Profit margins remain stable (~12–15%)
+
+Strongest categories: Coffee and Sandwiches
+
+Focus area: Ajman branch for performance improvement
+
+Learning Outcomes
+
+Week-over-week analysis using DAX time intelligence
+
+KPI conditional formatting with color indicators
+
+Data storytelling and visual alignment in Power BI
+
+Implemented Monday–Sunday weekly logic for slicer filtering
+
+Created by: Sandip Shrestha
+
+Completed on: October 2025
+Built with: Power BI, Power Query, DAX
