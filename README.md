@@ -1,6 +1,6 @@
 # ☕ Monday Café Sales Dashboard
 
-![Monday Cafe Dashboard](monday_cafe_dashboard.png)
+![Monday Cafe Dashboard](dashboard.png)
 
 
 
