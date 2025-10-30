@@ -1,5 +1,8 @@
 # ☕ Monday Café Sales Dashboard
 
+![Monday Cafe Dashboard](monday_cafe_dashboard.png)
+
+
 ## 📘 Project Overview
 The **Monday Café Sales Dashboard** analyzes weekly performance (Monday → Sunday) for a **UAE-based café chain** operating across **four branches**.  
 It provides actionable insights into **Sales**, **Profit**, and **Quantity Sold**, dynamically comparing **current vs previous weeks**.  
