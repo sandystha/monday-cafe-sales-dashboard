@@ -19,21 +19,21 @@ Abu Dhabi	28.55%
 Sharjah	22.13%
 Ajman	7.02%
 
-✅ Observation: Dubai leads in total sales; Ajman needs marketing or promotions.
+Observation: Dubai leads in total sales; Ajman needs marketing or promotions.
 
-🧁 Product-Wise Performance
+Product-Wise Performance
 
 By Quantity Sold
-1️⃣ Cappuccino — 56
+1️⃣Cappuccino — 56
 2️⃣ Latte — 41
 
 By Sales Value
 1️⃣ Chicken Sandwich — ₹832
 2️⃣ Cappuccino — ₹785
 
-✅ Observation: Hot beverages dominate volume, while sandwiches drive high-value sales.
+ Observation: Hot beverages dominate volume, while sandwiches drive high-value sales.
 
-📈 Visuals in Dashboard
+Visuals in Dashboard
 
 KPI Cards — Weekly totals & % change vs previous week
 
@@ -90,7 +90,6 @@ Focus improvement on Ajman branch for better reach
 
 Week-over-week comparison using DAX
 
-Dynamic slicer setup (Monday–Sunday)
 
 Conditional formatting for KPI visuals
 
